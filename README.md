@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image%201.png" alt="Briefly logo" width="400">
+  <img src="image%201.PNG" alt="Briefly logo" width="400">
 </p>
 
 # Briefly – Lecture-to-Notes Summarizer
